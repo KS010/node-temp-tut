@@ -1,0 +1,1 @@
+Here is the result : text for the first file used in 10-fs-sync, text for the second file used in 10-fs-sync
